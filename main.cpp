@@ -3,6 +3,7 @@
 // Do not change this file.
 // Use q1.hpp file to complete the functions
 
+
 int main()
 {
 	int begin, end;
